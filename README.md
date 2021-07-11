@@ -15,3 +15,4 @@
 |21.07.10|B|[2798](https://www.acmicpc.net/problem/2798). 블랙잭|브루트 포스|[블랙잭.py](B-2798/블랙잭.py)|
 |21.07.10|B|[11866](https://www.acmicpc.net/problem/11866). 요세푸스 문제|큐|[요세푸스_문제.py](B-11866/요세푸스_문제.py)|
 |21.07.10|B|[2231](https://www.acmicpc.net/problem/2231). 분해합|브루트 포스|[분해합.py](B-2231/분해합.py)|
+|21.07.11|B|[7568](https://www.acmicpc.net/problem/7568). 덩치|브루트 포스|[덩치.py](B-7568/덩치.py)|
