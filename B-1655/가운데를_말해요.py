@@ -20,5 +20,3 @@ for i in range(n):
         hq.heappush(big, smallMax)
         hq.heappush(small, -bigMin)
     print(-small[0])
-
-    
