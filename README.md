@@ -18,9 +18,10 @@
 |21.07.11|B|[7568](https://www.acmicpc.net/problem/7568). 덩치|브루트 포스|[덩치.py](B-7568/덩치.py)|
 |21.07.12|B|[1018](https://www.acmicpc.net/problem/1018). 체스판 다시 칠하기|브루트 포스|[체스판_다시_칠하기.py](B-1018/체스판_다시_칠하기.py)|
 |21.07.13|B|[1436](https://www.acmicpc.net/problem/1436). 영화감독 숌|브루트 포스|[영화감독_숌.py](B-1436/영화감독_숌.py)|
-|21.07.13|B|[12865](https://www.acmicpc.net/problem/12865). 평범한 배낭|냅색 알고리즘, DP|[평범한_배낭.py](B-12865/평범한_배낭.py)|0|
-|21.07.14|B|[1541](https://www.acmicpc.net/problem/1541). 잃어버린 괄호|그리디 알고리즘|[잃어버린_괄호.py](B-1541/잃어버린_괄호.py)|0|
-|21.07.14|B|[1655](https://www.acmicpc.net/problem/1655). 가운데를 말해요|우선순위 큐(힙)|[가운데를_말해요.py](B-1655/가운데를_말해요.py)|0|
+|21.07.13|B|[12865](https://www.acmicpc.net/problem/12865). 평범한 배낭|냅색 알고리즘, DP|[평범한_배낭.py](B-12865/평범한_배낭.py)|❗️0|
+|21.07.14|B|[1541](https://www.acmicpc.net/problem/1541). 잃어버린 괄호|그리디 알고리즘|[잃어버린_괄호.py](B-1541/잃어버린_괄호.py)|❗️0|
+|21.07.14|B|[1655](https://www.acmicpc.net/problem/1655). 가운데를 말해요|우선순위 큐(힙)|[가운데를_말해요.py](B-1655/가운데를_말해요.py)|❗️0|
 |21.07.15|B|[1003](https://www.acmicpc.net/problem/1003). 피보나치 함수|동적 계획법|[피보나치_함수.py](B-1003/피보나치_함수.py)|
-|21.07.15|B|[1904](https://www.acmicpc.net/problem/1904). 01타일|동적 계획법|[01타일.py](B-1904/01타일.py)|0|
+|21.07.15|B|[1904](https://www.acmicpc.net/problem/1904). 01타일|동적 계획법|[01타일.py](B-1904/01타일.py)|❗️0|
 |21.07.15|B|[9461](https://www.acmicpc.net/problem/9461). 파도반 수열|동적 계획법|[파도반_수열.py](B-9461/파도반_수열.py)|
+|21.07.16|B|[1260](https://www.acmicpc.net/problem/1260). DFS와 BFS|DFS, BFS|[DFS와_BFS.py](B-1260/DFS와_BFS.py)|❗️0|
