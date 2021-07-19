@@ -26,3 +26,4 @@
 |21.07.15|B|[9461](https://www.acmicpc.net/problem/9461). 파도반 수열|동적 계획법|[파도반_수열.py](B-9461/파도반_수열.py)|
 |21.07.16|B|[1260](https://www.acmicpc.net/problem/1260). DFS와 BFS|DFS, BFS|[DFS와_BFS.py](B-1260/DFS와_BFS.py)|❗️0|
 |21.07.17|B|[2675](https://www.acmicpc.net/problem/2675). 문자열 반복|문자열|[문자열_반복.py](B-2675/문자열_반복.py)|
+|21.07.18|B|[1932](https://www.acmicpc.net/problem/1932). 정수 삼각형|동적 계획법|[정수_삼각형.py](B-1932/정수_삼각형.py)|❗️0|
