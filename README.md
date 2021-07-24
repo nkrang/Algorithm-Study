@@ -31,3 +31,4 @@
 |21.07.21|B|[1463](https://www.acmicpc.net/problem/1463). 1로 만들기|동적 계획법|[1로_만들기.py](B-1463/1로_만들기.py)|❗️0|
 |21.07.22|B|[17298](https://www.acmicpc.net/problem/17298). 오큰수|스택|[오큰수.py](B-17298/오큰수.py)|❗️0|
 |21.07.23|B|[15649](https://www.acmicpc.net/problem/15649). N과 M1|백트래킹|[N과_M1.py](B-15649/N과_M1.py)|❗️0|
+|21.07.24|B|[15659](https://www.acmicpc.net/problem/15650). N과 M2|백트래킹|[N과_M2.py](B-15650/N과_M2.py)|❗️0|
