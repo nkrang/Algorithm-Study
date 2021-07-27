@@ -35,3 +35,4 @@
 |21.07.25|B|[15651](https://www.acmicpc.net/problem/15651). N과 M3|백트래킹|[N과_M3.py](B-15651/N과_M3.py)|
 |21.07.25|B|[15652](https://www.acmicpc.net/problem/15652). N과 M4|백트래킹|[N과_M4.py](B-15652/N과_M4.py)|
 |21.07.26|B|[9663](https://www.acmicpc.net/problem/9663). N-queen|백트래킹|[N-queen.py](B-9663/N-queen.py)|❗️0|
+|21.07.27|B|[1966](https://www.acmicpc.net/problem/1966). 프린터 큐|큐|[프린터_큐.py](B-1966/프린터_큐.py)|
