@@ -37,3 +37,4 @@
 |21.07.26|B|[9663](https://www.acmicpc.net/problem/9663). N-queen|백트래킹|[N-queen.py](B-9663/N-queen.py)|❗️0|
 |21.07.27|B|[1966](https://www.acmicpc.net/problem/1966). 프린터 큐|큐|[프린터_큐.py](B-1966/프린터_큐.py)|
 |21.07.28|B|[10828](https://www.acmicpc.net/problem/10828). 스택|스택|[스택.py](B-10828/스택.py)|
+|21.07.29|B|[2606](https://www.acmicpc.net/problem/2606). 바이러스|그래프|[바이러스.py](B-2606/바이러스.py)|❗️0|
