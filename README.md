@@ -38,3 +38,4 @@
 |21.07.27|B|[1966](https://www.acmicpc.net/problem/1966). 프린터 큐|큐|[프린터_큐.py](B-1966/프린터_큐.py)|
 |21.07.28|B|[10828](https://www.acmicpc.net/problem/10828). 스택|스택|[스택.py](B-10828/스택.py)|
 |21.07.29|B|[2606](https://www.acmicpc.net/problem/2606). 바이러스|그래프|[바이러스.py](B-2606/바이러스.py)|❗️0|
+|21.07.30|B|[13305](https://www.acmicpc.net/problem/13305). 주유소|그리디 알고리즘|[주유소.py](B-13305/주유소.py)|❗️0|
