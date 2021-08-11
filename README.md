@@ -46,3 +46,4 @@
 |21.08.06|B|[1152](https://www.acmicpc.net/problem/1152). 단어의 개수|문자열|[단어의_개수.py](202108/B-1152/단어의_개수.py)|
 |21.08.07|B|[2908](https://www.acmicpc.net/problem/2908). 상수|문자열|[상수.py](202108/B-2908/상수.py)|
 |21.08.10|B|[3197](https://www.acmicpc.net/problem/3197). 백조의 호수|[백조의_호수2.py](202108/B-3197/백조의_호수2.py)|❗️0|
+|21.08.11|B|[1149](https://www.acmicpc.net/problem/1149). RGB 거리|[RGB_거리.py](202108/B-1149/RGB거리.py)|❗️0|
