@@ -14,4 +14,5 @@ for i in range(n):
             if numbers[j] < numbers[i] and dp[j] > large:
                 large = dp[j]
         dp.append(large + 1)
+        
 print(max(dp))
