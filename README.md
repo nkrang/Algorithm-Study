@@ -52,4 +52,5 @@
 |21.08.13|B|[21756](https://www.acmicpc.net/problem/21756). 지우개|수학|[지우개.py](202108/B-21756/지우개.py)|
 |21.08.16|B|[17404](https://www.acmicpc.net/problem/17404). RGB거리2|동적 계획법|[RGB거리2.py](202108/B-17404/RGB거리2.py)|❗️0|
 |21.08.17|B|[10830](https://www.acmicpc.net/problem/10830). 행렬제곱|분할 정복|[행렬제곱.py](202108/B-10830/행렬제곱.py)|❗️0|
-|21.08.18|B|[1546](https://www.acmicpc.net/problem/1546). 평균|수학|[평균.py](202108/B-1546/평균.py)|❗️0|
+|21.08.18|B|[1546](https://www.acmicpc.net/problem/1546). 평균|수학|[평균.py](202108/B-1546/평균.py)|
+|21.08.19|B|[2630](https://www.acmicpc.net/problem/2630). 색종이 만들기|분할 정복|[색종이_만들기.py](202108/B-2630/색종이_만들기.py)|❗️0|
