@@ -24,7 +24,7 @@
 |21.07.15|B|[1003](https://www.acmicpc.net/problem/1003). 피보나치 함수|동적 계획법|[피보나치_함수.py](202107/B-1003/피보나치_함수.py)|
 |21.07.15|B|[1904](https://www.acmicpc.net/problem/1904). 01타일|동적 계획법|[01타일.py](202107/B-1904/01타일.py)|❗️0|
 |21.07.15|B|[9461](https://www.acmicpc.net/problem/9461). 파도반 수열|동적 계획법|[파도반_수열.py](202107/B-9461/파도반_수열.py)|
-|21.07.16|B|[1260](https://www.acmicpc.net/problem/1260). DFS와 BFS|DFS, BFS|[DFS와_BFS.py](202107/B-1260/DFS와_BFS.py)|❗️0|
+|21.07.16|B|[1260](https://www.acmicpc.net/problem/1260). DFS와 BFS|DFS, BFS|[DFS와_BFS.py](202107/B-1260/DFS와_BFS.py)|❗️1|
 |21.07.17|B|[2675](https://www.acmicpc.net/problem/2675). 문자열 반복|문자열|[문자열_반복.py](202107/B-2675/문자열_반복.py)|
 |21.07.18|B|[1932](https://www.acmicpc.net/problem/1932). 정수 삼각형|동적 계획법|[정수_삼각형.py](202107/B-1932/정수_삼각형.py)|❗️0|
 |21.07.20|B|[2579](https://www.acmicpc.net/problem/2579). 계단 오르기|동적 계획법|[계단_오르기.py](202107/B-2579/계단_오르기.py)|❗️0|
