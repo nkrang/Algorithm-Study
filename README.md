@@ -4,42 +4,11 @@
 
 
 ### CHECK ✅
+
+👉 [2021년 7월 문제풀이](monthly/202107.md)
+
 |날짜|B/P|문제|문제 설명|코드|복습|
 |---|---|---|---|---|---|
-|21.05.10|B|[11047](https://www.acmicpc.net/problem/11047). 동전 0|그리디 알고리즘|[동전0.py](202107/B-11047/동전0.py)|
-|21.05.12|B|[11399](https://www.acmicpc.net/problem/11399). ATM|그리디 알고리즘|[ATM.py](202107/B-11399/ATM.py)|
-|21.07.09|B|[10773](https://www.acmicpc.net/problem/10773). 제로|스택|[제로.py](202107/B-10773/제로.py)|
-|21.07.09|B|[9012](https://www.acmicpc.net/problem/9012). 괄호|스택|[괄호.py](202107/B-9012/괄호.py)|
-|21.07.09|B|[4949](https://www.acmicpc.net/problem/4949). 균형잡힌 세상|스택|[균형잡힌세상.py](202107/B-4949/균형잡힌세상.py)|
-|21.07.09|B|[1874](https://www.acmicpc.net/problem/1874). 스택 수열|스택|[스택수열.py](202107/B-1874/스택수열_2.py)|
-|21.07.10|B|[2798](https://www.acmicpc.net/problem/2798). 블랙잭|브루트 포스|[블랙잭.py](202107/B-2798/블랙잭.py)|
-|21.07.10|B|[11866](https://www.acmicpc.net/problem/11866). 요세푸스 문제|큐|[요세푸스_문제.py](202107/B-11866/요세푸스_문제.py)|
-|21.07.10|B|[2231](https://www.acmicpc.net/problem/2231). 분해합|브루트 포스|[분해합.py](202107/B-2231/분해합.py)|
-|21.07.11|B|[7568](https://www.acmicpc.net/problem/7568). 덩치|브루트 포스|[덩치.py](202107/B-7568/덩치.py)|
-|21.07.12|B|[1018](https://www.acmicpc.net/problem/1018). 체스판 다시 칠하기|브루트 포스|[체스판_다시_칠하기.py](202107/B-1018/체스판_다시_칠하기.py)|
-|21.07.13|B|[1436](https://www.acmicpc.net/problem/1436). 영화감독 숌|브루트 포스|[영화감독_숌.py](202107/B-1436/영화감독_숌.py)|
-|21.07.13|B|[12865](https://www.acmicpc.net/problem/12865). 평범한 배낭|냅색 알고리즘, DP|[평범한_배낭.py](202107/B-12865/평범한_배낭.py)|❗️1|
-|21.07.14|B|[1541](https://www.acmicpc.net/problem/1541). 잃어버린 괄호|그리디 알고리즘|[잃어버린_괄호.py](202107/B-1541/잃어버린_괄호.py)|❗️0|
-|21.07.14|B|[1655](https://www.acmicpc.net/problem/1655). 가운데를 말해요|우선순위 큐(힙)|[가운데를_말해요.py](202107/B-1655/가운데를_말해요.py)|❗️0|
-|21.07.15|B|[1003](https://www.acmicpc.net/problem/1003). 피보나치 함수|동적 계획법|[피보나치_함수.py](202107/B-1003/피보나치_함수.py)|
-|21.07.15|B|[1904](https://www.acmicpc.net/problem/1904). 01타일|동적 계획법|[01타일.py](202107/B-1904/01타일.py)|❗️0|
-|21.07.15|B|[9461](https://www.acmicpc.net/problem/9461). 파도반 수열|동적 계획법|[파도반_수열.py](202107/B-9461/파도반_수열.py)|
-|21.07.16|B|[1260](https://www.acmicpc.net/problem/1260). DFS와 BFS|DFS, BFS|[DFS와_BFS.py](202107/B-1260/DFS와_BFS.py)|❗️1|
-|21.07.17|B|[2675](https://www.acmicpc.net/problem/2675). 문자열 반복|문자열|[문자열_반복.py](202107/B-2675/문자열_반복.py)|
-|21.07.18|B|[1932](https://www.acmicpc.net/problem/1932). 정수 삼각형|동적 계획법|[정수_삼각형.py](202107/B-1932/정수_삼각형.py)|❗️0|
-|21.07.20|B|[2579](https://www.acmicpc.net/problem/2579). 계단 오르기|동적 계획법|[계단_오르기.py](202107/B-2579/계단_오르기.py)|❗️0|
-|21.07.21|B|[1463](https://www.acmicpc.net/problem/1463). 1로 만들기|동적 계획법|[1로_만들기.py](202107/B-1463/1로_만들기.py)|❗️0|
-|21.07.22|B|[17298](https://www.acmicpc.net/problem/17298). 오큰수|스택|[오큰수.py](202107/B-17298/오큰수.py)|❗️0|
-|21.07.23|B|[15649](https://www.acmicpc.net/problem/15649). N과 M1|백트래킹|[N과_M1.py](202107/B-15649/N과_M1.py)|❗️0|
-|21.07.24|B|[15650](https://www.acmicpc.net/problem/15650). N과 M2|백트래킹|[N과_M2.py](202107/B-15650/N과_M2.py)|❗️0|
-|21.07.25|B|[15651](https://www.acmicpc.net/problem/15651). N과 M3|백트래킹|[N과_M3.py](202107/B-15651/N과_M3.py)|
-|21.07.25|B|[15652](https://www.acmicpc.net/problem/15652). N과 M4|백트래킹|[N과_M4.py](202107/B-15652/N과_M4.py)|
-|21.07.26|B|[9663](https://www.acmicpc.net/problem/9663). N-queen|백트래킹|[N-queen.py](202107/B-9663/N-queen.py)|❗️0|
-|21.07.27|B|[1966](https://www.acmicpc.net/problem/1966). 프린터 큐|큐|[프린터_큐.py](202107/B-1966/프린터_큐.py)|
-|21.07.28|B|[10828](https://www.acmicpc.net/problem/10828). 스택|스택|[스택.py](202107/B-10828/스택.py)|
-|21.07.29|B|[2606](https://www.acmicpc.net/problem/2606). 바이러스|그래프|[바이러스.py](202107/B-2606/바이러스.py)|❗️0|
-|21.07.30|B|[13305](https://www.acmicpc.net/problem/13305). 주유소|그리디 알고리즘|[주유소.py](202107/B-13305/주유소.py)|❗️0|
-|21.07.31|B|[10844](https://www.acmicpc.net/problem/10844). 쉬운 계단수|동적 계획법|[쉬운_계단수.py](202107/B-10844/쉬운_계단수.py)|❗️0|
 |21.08.01|B|[2667](https://www.acmicpc.net/problem/2667). 단지번호붙이기|DFS|[단지번호붙이기.py](202108/B-2667/단지번호붙이기.py)|❗️0|
 |21.08.03|B|[1012](https://www.acmicpc.net/problem/1012). 유기농 배추|DFS|[유기농_배추.py](202108/B-1012/유기농_배추.py)|❗️0|
 |21.08.05|B|[11725](https://www.acmicpc.net/problem/11725). 트리의 부모 찾기|트리|[트리의_부모_찾기.py](202108/B-11725/트리의_부모_찾기.py)|❗️0|
@@ -57,3 +26,4 @@
 |21.08.26|B|[11054](https://www.acmicpc.net/problem/11054). 가장 긴 바이토닉 부분 수열|동적 계획법, LIS|[가장_긴_바이토닉_부분_수열.py](202108/B-11054/가장_긴_바이토닉_부분_수열.py)|❗️0|
 |21.08.27|B|[2565](https://www.acmicpc.net/problem/2565). 전깃줄|동적 계획법, LIS|[전깃줄.py](202108/B-2565/전깃줄.py)|❗️0|
 |21.08.30|B|[2178](https://www.acmicpc.net/problem/2178). 미로탐색|최단거리, BFS|[미로탐색.py](202108/B-2178/미로탐색.py)|❗️0|
+|21.08.31|B|[2644](https://www.acmicpc.net/problem/2644). 촌수계산|BFS|[촌수계산.py](202108/B-2644/촌수계산.py)|❗️0|
