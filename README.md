@@ -29,4 +29,5 @@
 |21.08.27|B|[2565](https://www.acmicpc.net/problem/2565). 전깃줄|동적 계획법, LIS|[전깃줄.py](202108/B-2565/전깃줄.py)|❗️0|
 |21.08.30|B|[2178](https://www.acmicpc.net/problem/2178). 미로탐색|최단거리, BFS|[미로탐색.py](202108/B-2178/미로탐색.py)|❗️0|
 |21.08.31|B|[2644](https://www.acmicpc.net/problem/2644). 촌수계산|BFS|[촌수계산.py](202108/B-2644/촌수계산.py)|❗️0|
-|21.09.01|B|[7569](https://www.acmicpc.net/problem/7569). 토마토|그래프, BFS|[토마토.py](202108/B-7569/토마토.py)|❗️0|
+|21.09.01|B|[7569](https://www.acmicpc.net/problem/7569). 토마토|그래프, BFS|[토마토.py](202109/B-7569/토마토.py)|❗️0|
+|21.09.02|B|[1697](https://www.acmicpc.net/problem/1697). 숨바꼭질|그래프, BFS|[숨바꼭질.py](202109/B-1697/숨바꼭질.py)|❗️0|
