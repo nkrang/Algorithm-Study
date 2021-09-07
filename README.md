@@ -19,3 +19,4 @@
 |21.09.04|P|[42576](https://programmers.co.kr/learn/courses/30/lessons/42576). 완주하지 못한 선수|해시(?)|[완주하지_못한_선수.py](202109/P-42576/완주하지_못한_선수.py)|❗️0|
 |21.09.06|B|[9205](https://www.acmicpc.net/problem/9205). 맥주 마시면서 걸어가기|그래프, BFS|[맥주_마시면서_걸어가기.py](202109/B-9205/맥주_마시면서_걸어가기.py)|❗️0|
 |21.09.06|P|[42862](https://programmers.co.kr/learn/courses/30/lessons/42862). 체육복|그리디|[체육복.py](202109/P-42862/체육복.py)|❗️0|
+|21.09.07|P|[72410](https://programmers.co.kr/learn/courses/30/lessons/72410). 신규 아이디 추천|카카오 2021|[신규_아이디_추천.py](202109/P-72410/신규_아이디_추천.py)|
