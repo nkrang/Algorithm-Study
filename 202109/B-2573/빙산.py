@@ -2,8 +2,6 @@ import sys
 input = sys.stdin.readline
 from collections import deque
 
-sys.setrecursionlimit(10**9)
-
 n, m = map(int, input().split())
 matrix = []
 for i in range(n):
