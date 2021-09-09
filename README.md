@@ -23,3 +23,4 @@
 |21.09.07|B|[2573](https://www.acmicpc.net/problem/2573). 빙산|그래프, BFS|[빙산.py](202109/B-2573/빙산.py)|❗️0|
 |21.09.07|P|[72411](https://programmers.co.kr/learn/courses/30/lessons/72411). 메뉴 리뉴얼|카카오 2021|[메뉴_리뉴얼_2.py](202109/P-72411/메뉴_리뉴얼_2.py)|❗️0 *내장함수 없이 풀어보기|
 |21.09.08|B|[14503](https://www.acmicpc.net/problem/14503). 로봇청소기|시뮬레이션, DFS|[로봇청소기.py](202109/B-14503/로봇청소기.py)|❗️0|
+|21.09.09|P|[72412](https://programmers.co.kr/learn/courses/30/lessons/72412). 순위검색|카카오 2021|[순위검색.py](202109/P-72412/순위검색.py)|❗️0|
