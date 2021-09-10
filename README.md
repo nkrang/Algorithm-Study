@@ -24,3 +24,5 @@
 |21.09.07|P|[72411](https://programmers.co.kr/learn/courses/30/lessons/72411). 메뉴 리뉴얼|카카오 2021|[메뉴_리뉴얼_2.py](202109/P-72411/메뉴_리뉴얼_2.py)|❗️0 *내장함수 없이 풀어보기|
 |21.09.08|B|[14503](https://www.acmicpc.net/problem/14503). 로봇청소기|시뮬레이션, DFS|[로봇청소기.py](202109/B-14503/로봇청소기.py)|❗️0|
 |21.09.09|P|[72412](https://programmers.co.kr/learn/courses/30/lessons/72412). 순위검색|카카오 2021|[순위검색.py](202109/P-72412/순위검색.py)|❗️0|
+|21.09.10|P|[81301](https://programmers.co.kr/learn/courses/30/lessons/81301). 숫자 문자열과 영단어|카카오 2021 인턴|[숫자_문자열과_영단어.py](202109/P-81301/숫자_문자열과_영단어.py)|
+|21.09.10|B|[2470](https://www.acmicpc.net/problem/2470). 두 용액|이분탐색|[두_용액.py](202109/B-2470/두_용액.py)|❗️0|
