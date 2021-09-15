@@ -13,7 +13,6 @@ def dfs(x, data):
             dfs(i, data)
 
 dfs(x, data)
-print(data)
 for i in range(n):
     #-2 : 삭제된 노드
     #index가 data에 있으면 자식이 있는 거 = 부모 노드
