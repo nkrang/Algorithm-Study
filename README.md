@@ -38,3 +38,4 @@
 |21.09.17|B|[14501](https://www.acmicpc.net/problem/14501). 퇴사|DP|[퇴사.py](202109/B-14501/퇴사.py)|❗️0|
 |21.09.18|B|[2809](https://www.acmicpc.net/problem/2809). 나무 자르기|이분탐색|[나무_자르기.py](202109/B-2805/나무_자르기.py)|❗️0|
 |21.09.19|B|[83201](https://www.acmicpc.net/problem/83201). 상호평가|구현|[상호평가.py](202109/P-83201/상호평가.py)|
+|21.09.20|B|[1026](https://www.acmicpc.net/problem/1026). 보물|정렬|[보물.py](202109/B-1026/보물.py)|
