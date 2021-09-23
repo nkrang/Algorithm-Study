@@ -41,3 +41,5 @@
 |21.09.20|B|[1026](https://www.acmicpc.net/problem/1026). 보물|정렬|[보물.py](202109/B-1026/보물.py)|
 |21.09.21|B|[1477](https://www.acmicpc.net/problem/1477). 휴게소 세우기|이분탐색|[휴게소_세우기.py](202109/B-1477/휴게소_세우기.py)|❗️0|
 |21.09.22|B|[2293](https://www.acmicpc.net/problem/2293). 동전1|DP|[동전1.py](202109/B-2293/동전1.py)|❗️0|
+|21.09.23|B|[3190](https://www.acmicpc.net/problem/3190). 뱀|구현|[뱀.py](202109/B-3190/뱀.py)|
+|21.09.24|B|[14502](https://www.acmicpc.net/problem/14502). 연구소|bfs|[연구소.py](202109/B-14502/연구소.py)|❗️0|
