@@ -42,5 +42,5 @@
 |21.09.21|B|[1477](https://www.acmicpc.net/problem/1477). 휴게소 세우기|이분탐색|[휴게소_세우기.py](202109/B-1477/휴게소_세우기.py)|❗️0|
 |21.09.22|B|[2293](https://www.acmicpc.net/problem/2293). 동전1|DP|[동전1.py](202109/B-2293/동전1.py)|❗️0|
 |21.09.23|B|[3190](https://www.acmicpc.net/problem/3190). 뱀|구현|[뱀.py](202109/B-3190/뱀.py)|
-|21.09.24|B|[14502](https://www.acmicpc.net/problem/14502). 연구소|bfs|[연구소.py](202109/B-14502/연구소.py)|❗️0|
-|21.09.25|B|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746). 가장 큰 수|정렬|[가장_큰_수2.py](202109/P-42746/가장_큰_수2.py)|❗️0|
+|21.09.23|B|[14502](https://www.acmicpc.net/problem/14502). 연구소|bfs|[연구소.py](202109/B-14502/연구소.py)|❗️0|
+|21.09.24|B|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746). 가장 큰 수|정렬|[가장_큰_수2.py](202109/P-42746/가장_큰_수2.py)|❗️0|
