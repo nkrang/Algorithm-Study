@@ -44,3 +44,4 @@
 |21.09.23|B|[3190](https://www.acmicpc.net/problem/3190). 뱀|구현|[뱀.py](202109/B-3190/뱀.py)|
 |21.09.23|B|[14502](https://www.acmicpc.net/problem/14502). 연구소|bfs|[연구소.py](202109/B-14502/연구소.py)|❗️0|
 |21.09.24|B|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746). 가장 큰 수|정렬|[가장_큰_수2.py](202109/P-42746/가장_큰_수2.py)|❗️0|
+|21.09.25|B|[1991](https://www.acmicpc.net/problem/1991). 트리 순회|트리|[트리_순회2.py](202109/B-1991/트리_순회2.py)|❗️0|
