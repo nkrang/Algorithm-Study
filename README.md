@@ -45,3 +45,5 @@
 |21.09.23|B|[14502](https://www.acmicpc.net/problem/14502). 연구소|bfs|[연구소.py](202109/B-14502/연구소.py)|❗️0|
 |21.09.24|B|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746). 가장 큰 수|정렬|[가장_큰_수2.py](202109/P-42746/가장_큰_수2.py)|❗️0|
 |21.09.25|B|[1991](https://www.acmicpc.net/problem/1991). 트리 순회|트리|[트리_순회2.py](202109/B-1991/트리_순회2.py)|❗️0|
+|21.09.25|B|[13458](https://www.acmicpc.net/problem/13456). 시험 감독|수학|[시험_감독.py](202109/B-13458/시험_감독.py)|
+|21.09.26|B|[12871](https://www.acmicpc.net/problem/12871). 무한 문자열|구현|[무한_문자열2.py](202109/B-12871/무한_문자열2.py)|
