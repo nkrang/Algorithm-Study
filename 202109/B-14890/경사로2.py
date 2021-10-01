@@ -39,7 +39,7 @@ for i in range(n):
             pre = matrix[j][i]
         elif matrix[j][i] == pre + 1 and cnt >= 0:
             if cnt >= L:
-                cnt += 1
+                cnt = 1
                 pre = matrix[j][i]
             else:
                 break
