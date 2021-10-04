@@ -17,3 +17,4 @@
 |21.10.01|B|[1931](https://www.acmicpc.net/problem/1931). 회의실 배정|정렬|[회의실_배정.py](202110/B-1931/회의실_배정.py)|❗️0|
 |21.10.02|B|[14889](https://www.acmicpc.net/problem/14889). 스타트와 링크|브루트 포스|[스타트와_링크.py](202110/B-14889/스타트와_링크.py)|❗️0|
 |21.10.03|P|[42586](https://www.acmicpc.net/problem/42586). 기능개발|스택|[기능개발.py](202110/P-42586/기능개발.py)|❗️0|
+|21.10.04|P|[42747](https://www.acmicpc.net/problem/42747). H-index|정렬|[H-index.py](202110/P-42747/H-index.py)|❗️0|
