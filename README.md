@@ -20,3 +20,4 @@
 |21.10.04|P|[42747](https://programmers.co.kr/learn/courses/30/lessons/42747). H-index|정렬|[H-index.py](202110/P-42747/H-index.py)|❗️0|
 |21.10.05|B|[2003](https://www.acmicpc.net/problem/2003). 수들의 합|투 포인터|[수들의합2_2.py](202110/B-2003/수들의합2_2.py)|❗️0|
 |21.10.06|B|[5052](https://www.acmicpc.net/problem/5052). 전화번호 목록|문자열|[전화번호_목록.py](202110/B-5052/전화번호_목록.py)|❗️0|
+|21.10.07|B|[9935](https://www.acmicpc.net/problem/9935). 문자열 폭발|문자열, 스택|[문자열_폭발.py](202110/B-9935/문자열_폭발.py)|❗️0|
