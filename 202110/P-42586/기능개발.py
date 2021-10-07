@@ -10,7 +10,6 @@ def solution(progresses, speeds):
     answer = [1]
     last = cd[0]
     for i in range(1, len(cd)):
-        print(cd[i], last)
         if cd[i] <= last:
             answer[-1] += 1
         else:

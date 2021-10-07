@@ -9,7 +9,7 @@ def solution(info, query):
                 q.append(t)
         for y in info:
             one = list(map(str, y.split()))
-            if one[-1] > q[-1]:
+            if int(one[-1]) >= int(q[-1]):
                 for i in range(4):
                     if one[i] != q[i] and q[i] != "-":
                         break
