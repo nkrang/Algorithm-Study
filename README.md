@@ -22,3 +22,6 @@
 |21.10.06|B|[5052](https://www.acmicpc.net/problem/5052). 전화번호 목록|문자열|[전화번호_목록.py](202110/B-5052/전화번호_목록.py)|❗️0|
 |21.10.07|B|[9935](https://www.acmicpc.net/problem/9935). 문자열 폭발|문자열, 스택|[문자열_폭발.py](202110/B-9935/문자열_폭발.py)|❗️0|
 |21.10.07|B|[2206](https://www.acmicpc.net/problem/2206). 벽 부수고 이동하기|bfs|[벽_부수고_이동하기.py](202110/B-2206/벽_부수고_이동하기.py)|❗️0|
+|21.10.07|P|[42840](https://programmers.co.kr/learn/courses/30/lessons/42840). 모의고사|완전 탐색|[모의고사.py](202110/P-42840/모의고사.py)|
+|21.10.07|P|[42839](https://programmers.co.kr/learn/courses/30/lessons/42839). 소수찾기|완전 탐색, 순열|[소수찾기.py](202110/P-42839/소수찾기.py)|❗️0|
+|21.10.08|B|[15683](https://www.acmicpc.net/problem/15683). 감시|dfs, 구현|[감시.py](202110/B-15683/감시.py)|❗️0|
