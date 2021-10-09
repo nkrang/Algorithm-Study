@@ -26,3 +26,4 @@
 |21.10.07|P|[42839](https://programmers.co.kr/learn/courses/30/lessons/42839). 소수찾기|완전 탐색, 순열|[소수찾기.py](202110/P-42839/소수찾기.py)|❗️0|
 |21.10.08|B|[15683](https://www.acmicpc.net/problem/15683). 감시|dfs, 구현|[감시.py](202110/B-15683/감시.py)|❗️0|
 |21.10.08|P|[42578](https://programmers.co.kr/learn/courses/30/lessons/42578). 위장|해시|[위장.py](202110/P-42578/위장.py)|❗️0|
+|21.10.09|B|[5397](https://www.acmicpc.net/problem/5397). 키로거|스택|[키로거.py](202110/B-5397/키로거.py)|❗️0|
