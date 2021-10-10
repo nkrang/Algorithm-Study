@@ -7,7 +7,7 @@ def main():
     bomb = str(input().strip('\n'))
 
     stack = []
-    last = bomb[-1]
+    last = bomb[-1] 
 
 
     for char in string:
