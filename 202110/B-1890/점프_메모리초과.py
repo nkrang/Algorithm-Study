@@ -14,7 +14,6 @@ ans = 0
 
 while dq:
     x, y = dq.popleft()
-    print(x, y)
     if x == n-1 and y == n-1:
         ans += 1
         continue

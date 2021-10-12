@@ -32,3 +32,4 @@
 |21.10.12|P|[49189](https://programmers.co.kr/learn/courses/30/lessons/49189). 가장 먼 노드|그래프, bfs|[가장_먼_노드.py](202110/P-49189/가장_먼_노드.py)|❗️0|
 |21.10.12|B|[1890](https://www.acmicpc.net/problem/1890). 점프|DP|[점프2.py](202110/B-1890/점프2.py)|❗️0|
 |21.10.12|B|[4883](https://www.acmicpc.net/problem/4883). 삼각 그래프|DP|[삼각_그래프.py](202110/B-4883/삼각_그래프.py)|
+|21.10.12|B|[20056](https://www.acmicpc.net/problem/20056). 마법사 상어와 파이어볼|구현|[마법사_상어와_파이어볼.py](202110/B-20056/마법사_상어와_파이어볼.py)|❗️0|
