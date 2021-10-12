@@ -29,3 +29,4 @@
 |21.10.09|B|[5397](https://www.acmicpc.net/problem/5397). 키로거|스택|[키로거.py](202110/B-5397/키로거.py)|❗️0|
 |21.10.10|P|[42579](https://programmers.co.kr/learn/courses/30/lessons/42579). 베스트앨범|해시|[베스트앨범.py](202110/P-42579/베스트앨범.py)|❗️0|
 |21.10.11|B|[15684](https://www.acmicpc.net/problem/15684). 사다리_조작|구현, dfs|[사다리_조작.py](202110/B-15684/사다리_조작.py)|❗️0|
+|21.10.12|P|[49189](https://programmers.co.kr/learn/courses/30/lessons/49189). 가장 먼 노드|그래프, bfs|[가장_먼_노드.py](202110/P-49189/가장_먼_노드.py)|❗️0|
