@@ -40,3 +40,4 @@
 |21.10.16|B|[20058](https://www.acmicpc.net/problem/20058). 마법사 상어와 파이어스톰|구현|[마법사_상어와_파이어스톰.py](202110/B-20058/마법사_상어와_파이어스톰.py)|❗️0|
 |21.10.16|B|[2292](https://www.acmicpc.net/problem/2292). 벌집|수학|[벌집.py](202110/B-2292/벌집.py)|
 |21.10.17|B|[4673](https://www.acmicpc.net/problem/4673). 셀프 넘버|수학, 구현|[셀프_넘버.py](202110/B-4673/셀프_넘버.py)|
+|21.10.17|S|[1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq). 탈주범 검거|dfs|[탈주범_검거.py](202110/S-1953/탈주범_검거.py)|❗️0|
