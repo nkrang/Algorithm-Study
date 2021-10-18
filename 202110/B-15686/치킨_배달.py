@@ -23,7 +23,6 @@ for nod in c:
     for hx, hy in house:
         mini = 100
         for x, y in nod:
-            
             dis = abs(x-hx) + abs(y-hy)
             if dis < mini:
                 mini = dis
