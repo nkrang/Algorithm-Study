@@ -45,3 +45,5 @@
 |21.10.18|B|[10971](https://www.acmicpc.net/problem/10971). 외판원 순회2|dfs|[외판원_순회2.py](202110/B-10971/외판원_순회2.py)|❗️0|
 |21.10.19|S|[2117](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu). 홈 방범 서비스|구현|[홈_방범_서비스.py](202110/S-2117/홈_방범_서비스.py)|❗️0|
 |21.10.19|P|[42860](https://programmers.co.kr/learn/courses/30/lessons/42860). 조이스틱|그리디|[조이스틱.py](202110/P-42860/조이스틱.py)|❗️0|
+|21.10.19|B|[2839](https://www.acmicpc.net/problem/2839). 설탕 배달|그리디|[설탕_배달.py](202110/B-2839/설탕_배달.py)|
+|21.10.20|B|[21608](https://www.acmicpc.net/problem/21608). 상어 초등학교|구현|[상어_초등학교.py](202110/B-21608/상어_초등학교.py)|❗️0|
