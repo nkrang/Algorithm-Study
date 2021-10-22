@@ -47,6 +47,8 @@
 |21.10.19|P|[42860](https://programmers.co.kr/learn/courses/30/lessons/42860). 조이스틱|그리디|[조이스틱.py](202110/P-42860/조이스틱.py)|❗️0|
 |21.10.19|B|[2839](https://www.acmicpc.net/problem/2839). 설탕 배달|그리디|[설탕_배달.py](202110/B-2839/설탕_배달.py)|
 |21.10.20|B|[21608](https://www.acmicpc.net/problem/21608). 상어 초등학교|구현|[상어_초등학교.py](202110/B-21608/상어_초등학교.py)|❗️0|
-|21.10.21|B|[17140](https://www.acmicpc.net/problem/17140). 이차원 배열과 연산|[이차원_배열과_연산.py](202110/B-17140/이차원_배열과_연산.py)|❗️0|
-|21.10.21|B|[21609](https://www.acmicpc.net/problem/21609). 상어 중학교|[상어_중학교.py](202110/B-21609/상어_중학교.py)|❗️0|
-|21.10.21|P|[42583](https://programmers.co.kr/learn/courses/30/lessons/42583). 다리를 지나는 트럭|[다리를_지나는_트럭.py](202110/P-42583/다리를_지나는_트럭.py)|❗️0|
+|21.10.21|B|[17140](https://www.acmicpc.net/problem/17140). 이차원 배열과 연산|구현, 정렬|[이차원_배열과_연산.py](202110/B-17140/이차원_배열과_연산.py)|❗️0|
+|21.10.21|B|[21609](https://www.acmicpc.net/problem/21609). 상어 중학교|bfs, 구현|[상어_중학교.py](202110/B-21609/상어_중학교.py)|❗️0|
+|21.10.21|P|[42583](https://programmers.co.kr/learn/courses/30/lessons/42583). 다리를 지나는 트럭|스택, 자료구조|[다리를_지나는_트럭.py](202110/P-42583/다리를_지나는_트럭.py)|❗️0|
+|21.10.22|P|[42842](https://programmers.co.kr/learn/courses/30/lessons/42842). 카펫|완전탐색|[카펫.py](202110/P-42842/카펫.py)|
+|21.10.22|B|[19237](https://www.acmicpc.net/problem/19237). 어른 상어|구현|[어른_상어.py](202110/B-19237/어른_상어.py)|❗️0|
