@@ -29,7 +29,7 @@ def fishmove(matrix, fishloc):
                         fishloc[matrix[nx][ny][0]] = (x, y)
                     fishloc[matrix[x][y][0]] = (nx, ny)
                     temp = matrix[nx][ny]
-                    matrix[nx][ny] = matrix[x][y]
+                    matrix[nx][ny] = (matrix[x][y][0], d)
                     matrix[x][y] = temp
                 break
             else:
