@@ -54,3 +54,4 @@
 |21.10.22|B|[19237](https://www.acmicpc.net/problem/19237). 어른 상어|구현|[어른_상어.py](202110/B-19237/어른_상어.py)|❗️0|
 |21.10.23|S|[5648](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo&). 원자_소멸_시뮬레이션|구현|[원자_소멸_시뮬레이션.py](202110/S-5648/원자_소멸_시뮬레이션.py)|❗️0|
 |21.10.23|B|[20055](https://www.acmicpc.net/problem/20055). 컨베이어 벨트 위의 로봇|구현|[컨베이어_벨트_위의_로봇.py](202110/B-20055/컨베이어_벨트_위의_로봇.py)|❗️0|
+|21.10.24|B|[2493](https://www.acmicpc.net/problem/2493). 탑|스택|[탑.py](202110/B-2493/탑.py)|❗️0|
