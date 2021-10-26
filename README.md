@@ -56,3 +56,4 @@
 |21.10.23|B|[20055](https://www.acmicpc.net/problem/20055). 컨베이어 벨트 위의 로봇|구현|[컨베이어_벨트_위의_로봇.py](202110/B-20055/컨베이어_벨트_위의_로봇.py)|❗️0|
 |21.10.24|B|[2493](https://www.acmicpc.net/problem/2493). 탑|스택|[탑.py](202110/B-2493/탑.py)|❗️0|
 |21.10.25|P|[42628](https://programmers.co.kr/learn/courses/30/lessons/42628). 이중우선순위큐|힙|[이중우선순위큐.py](202110/P-42628/이중우선순위큐.py)|❗️0|
+|21.10.26|P|[42627](https://programmers.co.kr/learn/courses/30/lessons/42627). 디스크 컨트롤러|힙|[디스크_컨트롤러.py](202110/P-42627/디스크_컨트롤러.py)|❗️0|
