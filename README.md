@@ -57,3 +57,4 @@
 |21.10.24|B|[2493](https://www.acmicpc.net/problem/2493). 탑|스택|[탑.py](202110/B-2493/탑.py)|❗️0|
 |21.10.25|P|[42628](https://programmers.co.kr/learn/courses/30/lessons/42628). 이중우선순위큐|힙|[이중우선순위큐.py](202110/P-42628/이중우선순위큐.py)|❗️0|
 |21.10.26|P|[42627](https://programmers.co.kr/learn/courses/30/lessons/42627). 디스크 컨트롤러|힙|[디스크_컨트롤러.py](202110/P-42627/디스크_컨트롤러.py)|❗️0|
+|21.10.27|B|[12851](https://www.acmicpc.net/problem/12851). 숨바꼭질2|BFS|[숨바꼭질2.py](202110/B-12851/숨바꼭질2_.py)|❗️0|
