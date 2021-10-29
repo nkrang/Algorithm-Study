@@ -25,4 +25,5 @@ while left <= right:
         right = mid - 1
         answer = mid
 
+
 print(answer)
