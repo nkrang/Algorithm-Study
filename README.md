@@ -68,3 +68,4 @@
 |21.11.04|P|[60061](https://programmers.co.kr/learn/courses/30/lessons/60061). 기둥과 보 설치|구현|[기둥과_보_설치.py](202111/B-60061/기둥과_보_설치.py)|
 |21.11.05|P|[60057](https://programmers.co.kr/learn/courses/30/lessons/60057). 문자열 압축|문자열, 구현|[문자열_압축.py](202111/P-60057/문자열_압축.py)|❗️0|
 |21.11.06|B|[16953](https://www.acmicpc.net/problem/16953). A->B|DFS, 그래프 탐색|[A->B.py](202111/B-16953/A->B.py)|❗️0|
+|21.11.07|B|[1005](https://www.acmicpc.net/problem/1005). ACM Craft|그래프, DP|[ACM_craft.py](202111/B-1005/ACM_craft.py)|❗️0|
