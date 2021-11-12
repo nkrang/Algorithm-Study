@@ -72,3 +72,5 @@
 |21.11.08|P|[60059](https://programmers.co.kr/learn/courses/30/lessons/60059). 자물쇠와 열쇠|구현|[자물쇠와_열쇠.py](202111/P-60059/자물쇠와_열쇠.py)|❗️0|
 |21.11.09|[2252](https://www.acmicpc.net/problem/2252). 줄 세우기|위상정렬|[줄_세우기.py](202111/B-2252/줄_세우기.py)|❗️0|
 |21.11.10|[60058](https://programmers.co.kr/learn/courses/30/lessons/60058). 괄호 변환|[괄호_변환.py](202111/P-60058/괄호_변환.py)|❗️0|
+|21.11.11|[2212](https://www.acmicpc.net/problem/2212). 센서|그리디, 정렬|[센서.py](202111/B-2212/센서.py)|❗️0|
+|21.11.12|[1715](https://www.acmicpc.net/problem/1715). 카드 정렬하기|그리디, 우선순위큐|[카드_정렬하기.py](202111/B-1715/카드_정렬하기.py)|❗️0|
