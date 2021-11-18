@@ -17,7 +17,8 @@ for i in range(g):
     s_index = ord('z') - ord(S[i])
     part[s_index] += 1
 
-print(word, part)
+if word == part:
+    answer += 1
 
 for i in range(g, s):
     index = ord('z') - ord(S[i])
@@ -27,7 +28,6 @@ for i in range(g, s):
     if word == part:
         answer += 1
 
-print(word, part)
 print(answer)
 
 
