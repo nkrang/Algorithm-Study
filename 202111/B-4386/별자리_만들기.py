@@ -12,7 +12,6 @@ for i in range(n):
         graph.append((i, j, d ** 0.5))
     stars.append((i, x, y))
 
-print(graph)
 
 parent = [x for x in range(n+1)]
 

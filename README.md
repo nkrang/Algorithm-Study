@@ -37,3 +37,4 @@
 |21.11.18|B|[1197](https://www.acmicpc.net/problem/1197). 최소 스패닝 트리|크루스칼|[최소_스패닝_트리.py](202111/B-1197/최소_스패닝_트리.py)|❗️0|
 |21.11.18|B|[12969](https://www.acmicpc.net/problem/12969). ABC|DP|[ABC_2.py](202111/B-12969/ABC_2.py)|❗️0|
 |21.11.19|B|[4386](https://www.acmicpc.net/problem/4386). 별자리 만들기|크루스칼|[별자리_만들기.py](202111/B-4386/별자리_만들기.py)|❗️0|
+|21.11.20|B|[1717](https://www.acmicpc.net/problem/1717). 집합의 표현|union find|[집합의_표현.py](202111/B-1717/집합의_표현.py)|❗️0|
