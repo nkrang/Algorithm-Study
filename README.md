@@ -38,3 +38,5 @@
 |21.11.18|B|[12969](https://www.acmicpc.net/problem/12969). ABC|DP|[ABC_2.py](202111/B-12969/ABC_2.py)|❗️0|
 |21.11.19|B|[4386](https://www.acmicpc.net/problem/4386). 별자리 만들기|크루스칼|[별자리_만들기.py](202111/B-4386/별자리_만들기.py)|❗️0|
 |21.11.20|B|[1717](https://www.acmicpc.net/problem/1717). 집합의 표현|union find|[집합의_표현.py](202111/B-1717/집합의_표현.py)|❗️0|
+|21.11.21|B|[1080](https://www.acmicpc.net/problem/1080). 행렬|그리디|[행렬.py](202111/B-1080/행렬.py)|❗️0|
+|21.11.22|B|[19236](https://www.acmicpc.net/problem/19236). 청소년 상어|구현|[청소년_상어2.py](202111/B-19236/청소년_상어2.py)|❗️0|
