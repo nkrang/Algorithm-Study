@@ -41,4 +41,6 @@
 |21.11.21|B|[1080](https://www.acmicpc.net/problem/1080). 행렬|그리디|[행렬.py](202111/B-1080/행렬.py)|❗️0|
 |21.11.22|B|[19236](https://www.acmicpc.net/problem/19236). 청소년 상어|구현|[청소년_상어2.py](202111/B-19236/청소년_상어2.py)|❗️0|
 |21.11.23|B|[5568](https://www.acmicpc.net/problem/5568). 카드 놓기|집합, 재귀|[카드_놓기2.py](202111/B-5568/카드_놓기2.py)|❗️0|
-|21.11.24|B|[1987](https://www.acmicpc.net/problem/1987). 알파벳|dfs, bfs|[알파벳.py](202111/B-1987/알파벳.py)|❗️0|
+|21.11.24|B|[1987](https://www.acmicpc.net/problem/1987). 알파벳|dfs, bfs|[알파벳.py](202111/B-1987/알파벳.py)|❗️1|
+|21.11.24|B|[3541](https://www.acmicpc.net/problem/3541). 상근타워|이분탐색|[상근타워.py](202111/B-3541/상근타워.py)|❗️0|
+|21.11.25|B|[1300](https://www.acmicpc.net/problem/1300). K번째 수|이분탐색|[K번째수.py](202111/B-1300/K번째수.py)|❗️0|
