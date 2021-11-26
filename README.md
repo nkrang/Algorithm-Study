@@ -44,3 +44,4 @@
 |21.11.24|B|[1987](https://www.acmicpc.net/problem/1987). 알파벳|dfs, bfs|[알파벳.py](202111/B-1987/알파벳.py)|❗️1|
 |21.11.24|B|[3541](https://www.acmicpc.net/problem/3541). 상근타워|이분탐색|[상근타워.py](202111/B-3541/상근타워.py)|❗️0|
 |21.11.25|B|[1300](https://www.acmicpc.net/problem/1300). K번째 수|이분탐색|[K번째수.py](202111/B-1300/K번째수.py)|❗️0|
+|21.11.26|P|[62048](https://programmers.co.kr/learn/courses/30/lessons/62048). 멀쩡한 사각형|수학|[멀쩡한_사각형.py](202111/P-62048/멀쩡한_사각형.py)|❗️0|
