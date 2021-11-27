@@ -12,7 +12,7 @@ for _ in range(n):
         dic[x] = 1
 
 answer = 0
-def choose(check, cnt):
+def choose(check, result):
     global answer
     if cnt == k:
         answer += 1

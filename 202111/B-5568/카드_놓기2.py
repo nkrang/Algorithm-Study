@@ -9,7 +9,6 @@ for _ in range(n):
 
 answer = set()
 for i in permutations(nums, k):
-    print(i)
     answer.add(''.join(i))
 
 print(len(answer))
