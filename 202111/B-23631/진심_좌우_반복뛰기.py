@@ -15,7 +15,7 @@ for _ in range(T):
         mid = (left + right) // 2
         temp = mid * (mid + 1) * K // 2
         if temp <= N-1:
-            jump = max(mid, jump)
+            jump = mid
             dist = N - 1 - temp
             left = mid+1
         else:
