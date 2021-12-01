@@ -8,9 +8,6 @@ for _ in range(M):
     matrix[y][x] = -1
     matrix[x][y] = 1
 
-result = [0] * (N+1)
-
-answer = 0
 
 for k in range(1, N+1):
     for i in range(1, N+1):
@@ -18,9 +15,11 @@ for k in range(1, N+1):
             if matrix[i][k] != 0 and matrix[k][j] == matrix[i][k]:
                 matrix[i][j] = matrix[i][k]
                 matrix[j][i] = -matrix[i][k]
-                result[i] += 1
-                if result[i] == N-1:
-                    answer += 1
-                    break
+        
+
+answer = 0
+for i in range(0, N+1):
+    if matrix[i].count(0) == 2:
+        answer += 1
 
 print(answer)
