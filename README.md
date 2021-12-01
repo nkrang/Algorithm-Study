@@ -50,3 +50,4 @@
 |21.11.28|B|[13459](https://www.acmicpc.net/problem/13459). 구슬 탈출|구현, dfs|[구슬_탈출.py](202111/B-13459/구슬_탈출.py)|❗️0|
 |21.11.29|B|[4485](https://www.acmicpc.net/problem/4485). 녹색 옷 입은 애가 젤다지|다익스트라|[녹색_옷_입은_애가_젤다지.py](202111/B-4485/녹색_옷_입은_애가_젤다지.py)|❗️0|
 |21.11.30|B|[2458](https://www.acmicpc.net/problem/2458). 키 순서|플로이드 와샬|[키_순서.py](202111/B-2458/키_순서.py)|❗️0|
+|21.12.01|B|[9470](https://www.acmicpc.net/problem/9470). Strahler 순서|위상 정렬|[Strahler_순서.py](202111/B-9470/Strahler_순서.py)|❗️0|
