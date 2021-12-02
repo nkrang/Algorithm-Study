@@ -17,3 +17,4 @@
 |날짜|B/P|문제|문제 설명|코드|복습|
 |---|---|---|---|---|---|
 |21.12.01|B|[9470](https://www.acmicpc.net/problem/9470). Strahler 순서|위상 정렬|[Strahler_순서.py](202112/B-9470/Strahler_순서.py)|❗️0|
+|21.12.02|B|[14226](https://www.acmicpc.net/problem/14226). 이모티콘|DP, BFS|[이모티콘.py](202112/B-14226/이모티콘.py)|❗️0|
