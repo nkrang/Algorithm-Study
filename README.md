@@ -18,3 +18,4 @@
 |---|---|---|---|---|---|
 |21.12.01|B|[9470](https://www.acmicpc.net/problem/9470). Strahler 순서|위상 정렬|[Strahler_순서.py](202112/B-9470/Strahler_순서.py)|❗️0|
 |21.12.02|B|[14226](https://www.acmicpc.net/problem/14226). 이모티콘|DP, BFS|[이모티콘.py](202112/B-14226/이모티콘.py)|❗️0|
+|21.12.03|B|[20040](https://www.acmicpc.net/problem/20040). 사이클 게임|유니온 파인드|[사이클_게임.py](202112/B-20040/사이클_게임.py)|❗️0|
