@@ -11,19 +11,17 @@ for _ in range(M):
 
 check = set()
 
-def dfs(nod):
+def dfs(mode, nod):
     global big, small
-    for i in matrix[nod][0]:
+    for i in matrix[nod][mode]:
         check.add(i)
-        dfs(i)
-    for i in matrix[nod][1]:
-        check.add(i)
-        dfs(i)
+        dfs(mode, i)
 
 answer = 0
 for i in range(1, N+1):
     check = set()
-    dfs(i)
+    dfs(1, i)
+    dfs(0, i)
     if len(check) == N-1:
         answer += 1
 
