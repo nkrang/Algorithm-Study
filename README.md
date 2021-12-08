@@ -23,3 +23,4 @@
 |21.12.05|B|[10819](https://www.acmicpc.net/problem/10819). 차이를 최대로|백트래킹|[차이를_최대로.py](202112/B-10819/차이를_최대로.py)|❗️0|
 |21.12.06|B|[5430](https://www.acmicpc.net/problem/5430). AC|구현|[AC.py](202112/B-5430/AC.py)|❗️0|
 |21.12.07|B|[1946](https://www.acmicpc.net/problem/1946). 신입사원|그리디|[신입사원.py](202112/B-1946/신입사원.py)|❗️0|
+|21.12.08|B|[2529](https://www.acmicpc.net/problem/2529). 부등호|브루트포스|[부등호.py](202112/B-2529/부등호.py)|❗️0|
