@@ -10,7 +10,7 @@ for _ in range(T):
     if n == 0:
         arr = []
     else:
-        arr = list(map(int, list(x[1:-1].split(','))))
+        arr = x[1:-1].split(',')
     arr = deque(arr)
 
     R = 0
@@ -32,4 +32,4 @@ for _ in range(T):
     else:
         if R == 1:
             arr.reverse()
-        print(list(arr))
+        print('[' + ','.join(arr) + ']')

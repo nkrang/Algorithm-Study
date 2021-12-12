@@ -9,8 +9,7 @@ answer = 0
 
 #LIS
 for i in range(len(S1)):
-    b = answer
-    for j in range(len(S2) - answer):
+    for j in range(len(S2)):
         if S1[i] == S2[j]:
             dp[i+1][j+1] = dp[i][j] + 1
             answer = max(answer, dp[i+1][j+1])
