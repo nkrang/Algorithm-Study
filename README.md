@@ -36,3 +36,4 @@
 |21.12.18|B|[2533](https://www.acmicpc.net/problem/2533). 사회망 서비스(SNS)|트리, DP|[사회망_서비스(SNS).py](202112/B-2533/사회망_서비스(SNS).py)|❗️0|
 |21.12.19|B|[2812](https://www.acmicpc.net/problem/2812). 크게 만들기|그리디|[크게_만들기2.py](202112/B-2812/크게_만들기2.py)|❗️0|
 |21.12.20|P|[77485](https://programmers.co.kr/learn/courses/30/lessons/77485). 행렬 테두리 회전하기|구현|[행렬_테두리_회전하기.py](202112/P-77485/행렬_테두리_회전하기.py)|❗️0|
+|21.12.21|P|[77486](https://programmers.co.kr/learn/courses/30/lessons/77486). 다단계 칫솔 판매|구현|[다단계_칫솔_판매.py](202112/P-77486/다단계_칫솔_판매.py)|❗️0|
