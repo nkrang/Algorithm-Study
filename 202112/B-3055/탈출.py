@@ -35,6 +35,7 @@ dq = [(S[0], S[1], 0)]
 dq = deque(dq)
 cnt = 0
 visited = [[0] * m for _ in range(n)]
+visited[S[0]][S[1]] = 1
 
 water()
 while dq:

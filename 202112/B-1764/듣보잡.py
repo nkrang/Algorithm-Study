@@ -14,5 +14,6 @@ for _ in range(M):
         result.append(name)
 
 print(len(result))
+result.sort()
 for x in result:
     print(x)
