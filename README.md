@@ -46,3 +46,4 @@
 |21.12.27|B|[1039](https://www.acmicpc.net/problem/1039). 교환|그래프|[교환.py](202112/B-1039/교환.py)|❗️0|
 |21.12.27|B|[10942](https://www.acmicpc.net/problem/10942). 팰린드롬|DP|[팰린드롬.py](202112/B-10942/팰린드롬.py)|❗️0|
 |21.12.28|B|[1701](https://www.acmicpc.net/problem/1707). Cubeditor|KMP, 문자열|[Cubeditor.py](202112/B-1701/Cubeditor.py)|❗️0|
+|21.12.28|B|[14002](https://www.acmicpc.net/problem/14002). 가장 긴 증가하는 부분 수열 4|DP|[가장_긴_증가하는_부분_수열_4.py](202112/B-14002/가장_긴_증가하는_부분_수열_4.py)|❗️0|
