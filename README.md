@@ -45,3 +45,4 @@
 |21.12.27|B|[1082](https://www.acmicpc.net/problem/1082). 방 번호|DP, 그리디|[방_번호.py](202112/B-1082/방_번호.py)|❗️0|
 |21.12.27|B|[1039](https://www.acmicpc.net/problem/1039). 교환|그래프|[교환.py](202112/B-1039/교환.py)|❗️0|
 |21.12.27|B|[10942](https://www.acmicpc.net/problem/10942). 팰린드롬|DP|[팰린드롬.py](202112/B-10942/팰린드롬.py)|❗️0|
+|21.12.28|B|[1701](https://www.acmicpc.net/problem/1707). Cubeditor|KMP, 문자열|[Cubeditor.py](202112/B-1701/Cubeditor.py)|❗️0|
