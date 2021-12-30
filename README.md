@@ -48,3 +48,4 @@
 |21.12.28|B|[1701](https://www.acmicpc.net/problem/1707). Cubeditor|KMP, 문자열|[Cubeditor.py](202112/B-1701/Cubeditor.py)|❗️0|
 |21.12.28|B|[14002](https://www.acmicpc.net/problem/14002). 가장 긴 증가하는 부분 수열 4|DP|[가장_긴_증가하는_부분_수열_4.py](202112/B-14002/가장_긴_증가하는_부분_수열_4.py)|❗️0|
 |21.12.29|B|[1034](https://www.acmicpc.net/problem/1034). 램프|브루트포스|[램프.py](202112/B-1034/램프.py)|❗️0|
+|21.12.30|B|[1700](https://www.acmicpc.net/problem/1700). 멀티탭 스케줄링|그리디|[멀티탭_스케줄링.py](202112/B-1700/멀티탭_스케줄링.py)|❗️0|
