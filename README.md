@@ -54,3 +54,4 @@
 |21.01.02|B|[7562](https://www.acmicpc.net/problem/7568). 나이트의 이동|bfs|[나이트의_이동.py](202201/B-7562/나이트의_이동.py)|❗️0|
 |21.01.03|B|[1911](https://www.acmicpc.net/problem/1911). 흙길 보수하기|그리디|[흙길_보수하기.py](202201/B-1911/흙길_보수하기.py)|❗️0|
 |21.01.04|B|[13023](https://www.acmicpc.net/problem/13023). ABCDE|dfs|[ABCDE.py](202201/B-13023/ABCDE.py)|❗️0|
+|21.01.05|B|[16929](https://www.acmicpc.net/problem/16929). Two Dots|dfs|[Two_Dots.py](202201/B-16929/Two_Dots.py)|❗️0|

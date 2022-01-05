@@ -30,4 +30,7 @@ for i in range(len(line)):
         temp //= 3
         stack.pop()
             
-print(answer)
+if stack:
+    print(0)
+else:
+    print(answer)

@@ -13,7 +13,6 @@ pond.sort()
 for x, y in pond:
     if x < last:
         x = last
-    print(x, y)
     temp = (y-x) / L
     if temp % 1 != 0:
         temp += 1
@@ -21,6 +20,5 @@ for x, y in pond:
     answer += temp
 
     last = x + temp* L
-    print("@", last, answer)
 
 print(answer)
