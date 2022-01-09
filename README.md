@@ -23,3 +23,4 @@
 |21.01.05|B|[16929](https://www.acmicpc.net/problem/16929). Two Dots|dfs|[Two_Dots.py](202201/B-16929/Two_Dots.py)|❗️0|
 |21.01.06|P|[42626](https://programmers.co.kr/learn/courses/30/lessons/42626). 더 맵게|힙|[더_맵게.py](202201/P-42626/더_맵게.py)||
 |21.01.07|P|[43165](https://programmers.co.kr/learn/courses/30/lessons/43165). 타겟 넘버|DFS|[타겟_넘버.py](202201/P-43165/타겟_넘버.py)||
+|21.01.08|B|[1956](https://www.acmicpc.net/problem/1956). 운동|다익스트라|[운동.py](202201/B-1956/운동.py)|❗️0|
