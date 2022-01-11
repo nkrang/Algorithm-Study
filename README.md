@@ -26,3 +26,4 @@
 |21.01.08|B|[1956](https://www.acmicpc.net/problem/1956). 운동|다익스트라|[운동.py](202201/B-1956/운동.py)|❗️0|
 |21.01.09|B|[9177](https://www.acmicpc.net/problem/9177). 단어 섞기|bfs|[단어_섞기.py](202201/B-9177/단어_섞기.py)|❗️0|
 |21.01.10|P|[81302](https://programmers.co.kr/learn/courses/30/lessons/81302). 거리두기 확인하기|bfs|[거리두기_확인하기.py](202201/P-81302/거리두기_확인하기.py)|❗️0|
+|21.01.11|B|[2437](https://www.acmicpc.net/problem/2437). 저울|그리디|[저울.py](202201/B-2437/저울.py)|❗️0|
