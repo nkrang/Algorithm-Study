@@ -27,7 +27,6 @@ def bfs(places, sx, sy):
 
 
 def solution(places):
-
     answer = [1] * 5
     for t in range(5):
         B = False

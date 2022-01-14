@@ -11,7 +11,6 @@ numbers.sort()
 
 answer = 1
 for x in numbers:
-    print(x, answer)
     if x <= answer:
         answer += x
     else:
