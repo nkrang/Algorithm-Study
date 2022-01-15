@@ -32,8 +32,8 @@ answer = 0
 for i in range(1, N+1):
     if i == X:
         continue
+    #i->X 갔다가 X->i 돌아오기
     temp = Dijkstra(i)[X] + Dijkstra(X)[i]
-    print(temp)
     answer = max(answer, temp)
 
 print(answer)

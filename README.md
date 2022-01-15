@@ -30,3 +30,4 @@
 |21.01.12|P|[42885](https://programmers.co.kr/learn/courses/30/lessons/42885). 구명보트|그리디|[구명보트.py](202201/P-42885/구명보트.py)|❗️0|
 |21.01.13|B|[1339](https://www.acmicpc.net/problem/1339). 단어 수학|그리디|[단어_수학.py](202201/B-1339/단어_수학.py)|❗️0|
 |21.01.14|B|[1238](https://www.acmicpc.net/problem/1238). 파티|다익스트라|[파티.py](202201/B-1238/파티.py)|❗️0|
+|21.01.15|B|[1261](https://www.acmicpc.net/problem/1261). 알고스팟|bfs, 다익스트라|[알고스팟.py](202201/B-1261/알고스팟.py)|❗️0|
