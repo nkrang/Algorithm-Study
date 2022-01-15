@@ -29,3 +29,4 @@
 |21.01.11|B|[2437](https://www.acmicpc.net/problem/2437). 저울|그리디|[저울.py](202201/B-2437/저울.py)|❗️0|
 |21.01.12|P|[42885](https://programmers.co.kr/learn/courses/30/lessons/42885). 구명보트|그리디|[구명보트.py](202201/P-42885/구명보트.py)|❗️0|
 |21.01.13|B|[1339](https://www.acmicpc.net/problem/1339). 단어 수학|그리디|[단어_수학.py](202201/B-1339/단어_수학.py)|❗️0|
+|21.01.14|B|[1238](https://www.acmicpc.net/problem/1238). 파티|다익스트라|[파티.py](202201/B-1238/파티.py)|❗️0|
