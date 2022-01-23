@@ -36,3 +36,4 @@
 |21.01.18|P|[92342](https://programmers.co.kr/learn/courses/30/lessons/92342). 양궁 대회|DFS|[양궁대회.py](202201/P-92342/양궁대회.py)|❗️0|
 |21.01.19|B|[1992](https://www.acmicpc.net/problem/1992). 쿼드 트리|분할정복, 재귀|[쿼드트리.py](202201/B-1992/쿼드트리.py)|❗️0|
 |21.01.20|B|[2108](https://www.acmicpc.net/problem/2108). 통계학|구현|[통계학.py](202201/B-2108/통계학.py)|❗️0|
+|21.01.23|P|[92344](https://programmers.co.kr/learn/courses/30/lessons/92344). 파괴되지 않은 건물|누적합|[파괴되지_않은_건물.py](202201/P-92344/파괴되지_않은_건물.py)|❗️0|

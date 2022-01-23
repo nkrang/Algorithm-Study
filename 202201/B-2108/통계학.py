@@ -25,10 +25,13 @@ if a > 0:
     print(int(a / n + 0.5))
 elif a < 0:
     print(int(a / n - 0.5))
+else:
+    print(0)
 
 
 numbers.sort()
 print(numbers[n//2])
+max_num.sort()
 if len(max_num) > 1:
     print(max_num[1])
 else:
