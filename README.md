@@ -38,3 +38,4 @@
 |21.01.20|B|[2108](https://www.acmicpc.net/problem/2108). 통계학|구현|[통계학.py](202201/B-2108/통계학.py)|❗️0|
 |21.01.23|P|[92344](https://programmers.co.kr/learn/courses/30/lessons/92344). 파괴되지 않은 건물|누적합|[파괴되지_않은_건물.py](202201/P-92344/파괴되지_않은_건물.py)|❗️0|
 |21.01.24|B|[3020](https://www.acmicpc.net/problem/3020). 개똥벌레|누적합|[개똥벌레.py](202201/B-3020/개똥벌레.py)|❗️0|
+|21.01.25|B|[1781](https://www.acmicpc.net/problem/1781). 컵라면|그리디|[컵라면.py](202201/B-1781/컵라면.py)|❗️0|
