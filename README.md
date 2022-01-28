@@ -40,3 +40,4 @@
 |21.01.24|B|[3020](https://www.acmicpc.net/problem/3020). 개똥벌레|누적합|[개똥벌레.py](202201/B-3020/개똥벌레.py)|❗️0|
 |21.01.25|B|[1781](https://www.acmicpc.net/problem/1781). 컵라면|그리디|[컵라면.py](202201/B-1781/컵라면.py)|❗️0|
 |21.01.26|B|[1912](https://www.acmicpc.net/problem/1912). 연속합|DP|[연속합.py](202201/B-1912/연속합.py)|❗️0|
+|21.01.28|B|[2636](https://www.acmicpc.net/problem/2636). 치즈|구현|[치즈.py](202201/B-2636/치즈.py)|❗️0|
