@@ -14,7 +14,7 @@ visited = [0] * (N+1)
 
 def bfs(nod):
     visited[nod] = 1
-    dq = deque(edges[nod])
+    dq = deque([nod])
     while dq:
         x = dq.popleft()
         for i in edges[x]:
