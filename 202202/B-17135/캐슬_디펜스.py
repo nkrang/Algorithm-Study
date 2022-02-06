@@ -59,7 +59,7 @@ answer = 0
 #         temp = kill(loc)
 #         answer = max(answer, kill(loc))
 #         return
-#     for i in range(depth, M):
+#     for i in range(depth, M):ㄱ
 #         visited[i] = 1
 #         combi(visited, depth + 1)
 #         visited[i] = 0

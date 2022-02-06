@@ -51,3 +51,4 @@
 |21.02.04|B|[2615](https://www.acmicpc.net/problem/2615). 오목|구현, 브루트포스|[오목.py](202202/B-2615/오목.py)||
 |21.02.04|B|[1922](https://www.acmicpc.net/problem/1922). 네트워크 연결|크루스칼|[네트워크_연결.py](202202/B-1922/네트워크_연결.py)|❗️0||21.02.04|B|[2887](https://www.acmicpc.net/problem/2887). 행성 터널|크루스칼|[행성_터널.py](202202/B-2887/행성_터널.py)|❗️0|
 |21.02.04|B|[11726](https://www.acmicpc.net/problem/11726). 2xn타일링|구현, dp|[2xn타일링.py](202202/B-11726/2xn타일링.py)|❗️0|
+|21.02.05|B|[1065](https://www.acmicpc.net/problem/1065). 한수|브루트 포스|[한수.py](202202/B-1065/한수.py)||
