@@ -53,3 +53,4 @@
 |21.02.04|B|[11726](https://www.acmicpc.net/problem/11726). 2xn타일링|구현, dp|[2xn타일링.py](202202/B-11726/2xn타일링.py)|❗️0|
 |21.02.05|B|[1065](https://www.acmicpc.net/problem/1065). 한수|브루트 포스|[한수.py](202202/B-1065/한수.py)||
 |21.02.06|B|[3273](https://www.acmicpc.net/problem/3273). 두 수의 합|투포인터|[두_수의_합.py](202202/B-3273/두_수의_합.py)|❗️0|
+|21.02.07|B|[8979](https://www.acmicpc.net/problem/8979). 올림픽|정렬|[올림픽.py](202202/B-8979/올림픽.py)||
