@@ -24,7 +24,7 @@ for _ in range(T):
         x, y = map(int, input().split())
         edges.append((x, y))
 
-    
+    edges.sort()
     parent = [x for x in range(N+1)]
     answer = 0
 

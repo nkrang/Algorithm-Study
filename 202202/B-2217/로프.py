@@ -8,7 +8,6 @@ for _ in range(N):
     x = int(input())
     rope.append(x)
 
-rope.sort()
 for i in range(N):
     temp = rope[i] * (N-i)
     if result <= temp:

@@ -19,17 +19,7 @@ def union_parent(a, b):
 
 for _ in range(T):
     N, M = map(int, input().split())
-    edges = []
     for _ in range(M):
         x, y = map(int, input().split())
-        edges.append((x, y))
 
-    
-    parent = [x for x in range(N+1)]
-    answer = 0
-
-    for x, y in edges:
-        if parent[x] != parent[y]:
-            answer += 1
-            union_parent(x, y)
-    print(answer)
+    print(N-1)

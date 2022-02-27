@@ -21,7 +21,6 @@ for k in range(1, n+1):
             if matrix[i][k] + matrix[k][j] < matrix[i][j]:
                 matrix[i][j] = matrix[i][k] + matrix[k][j]
 
-print(matrix)
 result = []
 num = 1e9
 for i in range(1, n+1):

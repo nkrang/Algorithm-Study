@@ -10,9 +10,7 @@ answer = 0
 
 s, e = 0, n-1
 
-print(arr)
 while s < e:
-    print(arr[s], arr[e], arr[s] + arr[e])
     if arr[s] + arr[e] < x:
         s += 1
     elif arr[s] + arr[e] > x:
